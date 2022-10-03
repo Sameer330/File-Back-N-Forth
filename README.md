@@ -18,8 +18,8 @@ A set of python scripts to convert a text file to JSON file and back to text fil
     
     (II) JSON Format to Text File
         1. The script reads the JSON File as a dictionary data structure.
-        2. First, the text length is read from the key - 'file_size'
-        3. A list of whitespaces of length equal to 'file_size' is created.
+        2. First, the text length is read from the key - 'filesize'
+        3. A list of whitespaces of length equal to 'filesize' is created.
         4. Then iterates through keys of the dictionary.
         5. For every key iteration, iterate through its list of indices.
         6. Place the key in the 'whitespaces list' in the indices mentioned in the list.
