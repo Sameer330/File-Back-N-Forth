@@ -1,6 +1,6 @@
 # File-Back-N-Forth
 
-## Text File Conversion to JSON Format
+## Text File Conversion to JSON Format and Back
 
 A set of python scripts to convert a text file to JSON file and back to text file.
 
