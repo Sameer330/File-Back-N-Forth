@@ -35,6 +35,3 @@ for i in char_list:
 
 output.write(text)
 output.close()
-
-# Simulate the network topology with 'n' number of nodes and perform http request and a response
-# along with suitable error code message
